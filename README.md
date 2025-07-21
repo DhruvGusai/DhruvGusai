@@ -61,7 +61,7 @@ Hi there! 👋 I'm **Dhruv Gusai**, an enthusiastic and curious learner currentl
 ## 📫 Connect With Me
 
 - 📧 **Email:** dhruvgusai7600@gmail.com  
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/dhruv-gusai-546108338/) *(Replace with your actual profile link)*
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/dhruv-gusai-546108338/) 
 
 ---
 
